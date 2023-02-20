@@ -34,7 +34,7 @@ class CarShowroom(Car):
         pass
 
 
-a1 = CarShowroom('Mazda', 'sedan', 'red', 50000)
+a1 = CarShowroom('Citroen', 'sedan', 'red', 50000)
 a2 = CarShowroom('BMW', 'roadster', 'yellow', 70000)
 a3 = CarShowroom('Peugeot', 'suv', 'white', 35000)
 a4 = CarShowroom('Volvo', 'suv', 'black', 75000)
