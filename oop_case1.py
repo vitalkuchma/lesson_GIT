@@ -10,8 +10,8 @@ class DeskTable(Table):
         return self.width * self.length
 
 
-t1 = Table(1.5, 1.8, 0.75)
-t2 = DeskTable(0.8, 0.6, 0.7)
+t1 = Table(1.5, 1.8, 2.75)
+t2 = DeskTable(0.8, 0.6, 0.9)
 print(t2.square())
 
 
